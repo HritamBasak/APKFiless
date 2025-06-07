@@ -23,27 +23,21 @@ This repo includes the released `.apk` files for some of my Android applications
 - To-Do List with Reminder  
 - Clean and minimal UI  
 
-### 🔧 Libraries & APIs:
+### 🔧 Teck Stack:
 
-- Firebase  
+- Java
+- Firebase
+- XML 
 - Google Maps SDK  
 - Picasso  
 - RecyclerView  
 - Material Components
+- GoogleMaps API
+- OpenWeatherMap API
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="![1730816758412](https://github.com/user-attachments/assets/e4fc9e9a-4541-4304-ac06-0ba728c59ccd)
-" width="40"/>
-  <img src="![1730816792403](https://github.com/user-attachments/assets/2b08a55b-1ed2-48b9-b875-95b485d94b5f)
-" width="200"/>
-  <img src="![1730816830917](https://github.com/user-attachments/assets/1ffbfbb1-77da-4aaa-9ebe-75ef9619318b)
-" width="200"/>
-  <img src="![1730816852506 (1)](https://github.com/user-attachments/assets/cc5e05ca-1e41-4eb6-b5e0-9a46fd10e4c7)
-" width="200"/>
-</p>
-
+![UniAssist](https://github.com/user-attachments/assets/88e1bfc9-ce0c-4e72-a4e7-8aa5615a267c)
 
 ### 🔗 App Link:
 
@@ -57,27 +51,28 @@ This repo includes the released `.apk` files for some of my Android applications
 
 ### 📚 Features:
 
-- Dynamic Information Cards  
-- News API Integration  
-- Weather API Widgets  
-- Save Favorites & Notes  
-- Notification Reminders  
+- Real-Time News Updates
+- Track Weather of any place
+- Intuitive UI and smooth performance
+- Gemini for getting any information  
+- Dark/Light Mode  
 
-### 🔧 Libraries & APIs:
+### 🔧 Teck Stack:
 
-- Retrofit  
-- Glide  
-- ViewPager2  
-- Firebase Firestore  
-- WorkManager  
-- DataStore
+- Java
+- Firebase
+- XML
+- Volley  
+- Picasso  
+- GoogleMaps API
+- News API
+- OpenWeatherMap API
+- Gemini API  
+  
 
 ## 📸 Screenshots
 
-![1730809742798](https://github.com/user-attachments/assets/dc631183-8492-47f3-90d9-a91b72103a0b)
-![1730809772298](https://github.com/user-attachments/assets/c9ed04de-fdc1-412b-99a8-3cdef06007b1)
-![1730809790340](https://github.com/user-attachments/assets/7d4222c1-5ea4-44d8-9bcb-90109a28389c)
-![1730809813001](https://github.com/user-attachments/assets/0f219287-900c-4ee9-9b0e-0136715260c5)
+![Untitled design (1)](https://github.com/user-attachments/assets/f946776c-e327-4f88-be42-fea0e86d9752)
 
 ---
 
