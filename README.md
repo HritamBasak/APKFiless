@@ -44,7 +44,6 @@ This repo includes the released `.apk` files for some of my Android applications
 
 ![Untitled design](https://github.com/user-attachments/assets/3666aa54-ab53-4848-bd66-0bb024a61f68)
 
-
 ### 🔗 App Link:
 
 [Download APK](https://github.com/HritamBasak/UniAssist/blob/master/app-debug.aab)
@@ -81,7 +80,6 @@ This repo includes the released `.apk` files for some of my Android applications
 - OpenWeatherMap API
 - Gemini API  
   
-
 ## 📸 Screenshots
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/f946776c-e327-4f88-be42-fea0e86d9752)
@@ -94,6 +92,32 @@ This repo includes the released `.apk` files for some of my Android applications
 
 ---
 
+## 3. 🍔 CanteenBites
+
+> Discover your favorite campus meals with ease!
+
+### 📚 Features:
+
+- Store-wise browsing of food items 
+- Responsive UI-UX    
+
+### 🔧 Libraries & APIs:
+
+- Java
+- Android SDK
+- XML
+- Material Components
+- Lottie
+- RecyclerView
+- Gradle
+- Kotlin DSL
+- GitHub
+  
+### 📸 Screenshots
+
+![Untitled design (2)](https://github.com/user-attachments/assets/20c41227-463d-4d02-a4e2-7419fffb1527)
+
+---
 ### ✨ Author:  
 **Hritam Basak**  
 📧 hritambasak@gmail.com  
