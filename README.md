@@ -20,7 +20,8 @@ This repo includes the released `.apk` files for some of my Android applications
 - College News Feed  
 - Smart Travel Helper  
 - Google Maps Navigation  
-- To-Do List with Reminder  
+- To-Do List with Reminder
+- Placements Updates
 - Clean and minimal UI  
 
 ### 🔧 Teck Stack:
@@ -29,7 +30,11 @@ This repo includes the released `.apk` files for some of my Android applications
 - Firebase
 - XML 
 - Google Maps SDK  
-- Picasso  
+- Picasso
+- Volley
+- Gradle
+- Kotlin DSL
+- GitHub
 - RecyclerView  
 - Material Components
 - GoogleMaps API
@@ -63,6 +68,12 @@ This repo includes the released `.apk` files for some of my Android applications
 - Java
 - Firebase
 - XML
+- Android SDK
+- Material Components
+- Lottie
+- Gradle
+- Kotlin DSL
+- GitHub
 - Volley  
 - Picasso  
 - GoogleMaps API
