@@ -37,7 +37,8 @@ This repo includes the released `.apk` files for some of my Android applications
 
 ## 📸 Screenshots
 
-![UniAssist](https://github.com/user-attachments/assets/88e1bfc9-ce0c-4e72-a4e7-8aa5615a267c)
+![Untitled design](https://github.com/user-attachments/assets/3666aa54-ab53-4848-bd66-0bb024a61f68)
+
 
 ### 🔗 App Link:
 
