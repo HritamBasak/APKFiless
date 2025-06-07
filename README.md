@@ -35,7 +35,7 @@ This repo includes the released `.apk` files for some of my Android applications
 
 <p align="center">
   <img src="![1730816758412](https://github.com/user-attachments/assets/e4fc9e9a-4541-4304-ac06-0ba728c59ccd)
-" width="200"/>
+" width="40"/>
   <img src="![1730816792403](https://github.com/user-attachments/assets/2b08a55b-1ed2-48b9-b875-95b485d94b5f)
 " width="200"/>
   <img src="![1730816830917](https://github.com/user-attachments/assets/1ffbfbb1-77da-4aaa-9ebe-75ef9619318b)
