@@ -31,14 +31,19 @@ This repo includes the released `.apk` files for some of my Android applications
 - RecyclerView  
 - Material Components
 
- ## 📸 Screenshots
+## 📸 Screenshots
 
-![1730816758412](https://github.com/user-attachments/assets/855d7615-9cab-459e-b751-aad7159fcd42)
-![1730816792403](https://github.com/user-attachments/assets/a806937b-97b6-4258-94d2-3429d5f8074c)
-![1730816830917](https://github.com/user-attachments/assets/68ae18fc-07c6-47dd-b8c0-0ba97f44e46d)
-![1730816852506 (1)](https://github.com/user-attachments/assets/391fafed-59f9-4da0-a178-02254280afdb)
+<p align="center">
+  <img src="![1730816758412](https://github.com/user-attachments/assets/e4fc9e9a-4541-4304-ac06-0ba728c59ccd)
+" width="200"/>
+  <img src="![1730816792403](https://github.com/user-attachments/assets/2b08a55b-1ed2-48b9-b875-95b485d94b5f)
+" width="200"/>
+  <img src="![1730816830917](https://github.com/user-attachments/assets/1ffbfbb1-77da-4aaa-9ebe-75ef9619318b)
+" width="200"/>
+  <img src="![1730816852506 (1)](https://github.com/user-attachments/assets/cc5e05ca-1e41-4eb6-b5e0-9a46fd10e4c7)
+" width="200"/>
+</p>
 
----
 
 ### 🔗 App Link:
 
